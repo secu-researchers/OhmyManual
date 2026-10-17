@@ -1,5 +1,7 @@
 # 메뉴얼 프로그램 사용 설명서
 
+<img width="2535" height="1296" alt="image" src="https://github.com/user-attachments/assets/c4f3668a-cf1e-45b7-9ac0-2202612508fc" />
+
 ## 1. 준비
 - 지원 브라우저: Edge, Chrome
 - 설치 불필요. `index.html`을 Edge/Chrome으로 열면 실행됨(`file://`).
